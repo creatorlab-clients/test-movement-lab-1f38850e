@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://movementlab.com.br/sitemap.xml
